@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "288543960506",
+    "firebase_url": "https://myhospital-be796.firebaseio.com",
+    "project_id": "myhospital-be796",
+    "storage_bucket": "myhospital-be796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288543960506:android:e48cd5a3e754a015",
+        "android_client_info": {
+          "package_name": "com.example.testfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288543960506-braj3fd637at6u7dbqdqrt5fg5ht2dfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXhYCLrtn8lx_xNHcF_viTz_TCXjJnTL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288543960506-braj3fd637at6u7dbqdqrt5fg5ht2dfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288543960506:android:81d0300f379e773e",
+        "android_client_info": {
+          "package_name": "com.simpliest.myhospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288543960506-pk3i3h0034pf14q54kqh6fn6f2l6m8mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simpliest.myhospital",
+            "certificate_hash": "1ff96840c4b32be85e487a6c4c75ff7bf1dfcb17"
+          }
+        },
+        {
+          "client_id": "288543960506-braj3fd637at6u7dbqdqrt5fg5ht2dfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXhYCLrtn8lx_xNHcF_viTz_TCXjJnTL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288543960506-braj3fd637at6u7dbqdqrt5fg5ht2dfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
